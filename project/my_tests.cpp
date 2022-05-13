@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
 #include "my_functions.h"
 
-TEST(my_unctions, add)
+TEST(my_functions, add)
 {
     GTEST_ASSERT_EQ(add(10, 22), 32);
 }
